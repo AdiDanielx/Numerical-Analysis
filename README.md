@@ -37,4 +37,3 @@ python <script_name>.py
 
 Replace `<script_name>` with the name of the script you wish to run.
 
-]
